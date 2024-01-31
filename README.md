@@ -1,0 +1,2 @@
+# API Jalon2:
+This API rest project is the server-side processing part of the project in addition to the client-side developed in Winform as part of milestone 2 of the CDA training course (IT asset management application).

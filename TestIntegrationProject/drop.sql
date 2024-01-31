@@ -1,0 +1,5 @@
+﻿
+DROP TABLE IF EXISTS CategoryMateriel;
+DROP TABLE IF EXISTS materiel;
+DROP TABLE IF EXISTS category;
+DROP TABLE IF EXISTS users;
